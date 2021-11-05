@@ -1,1 +1,1 @@
-print("hello world")
+print("hello  friends this is avinash world ")
